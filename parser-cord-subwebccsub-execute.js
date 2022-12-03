@@ -54,8 +54,9 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
       'DOMAIN-SUFFIX,dmm.co.jp,🇯🇵 DMM专用',
       'DOMAIN-SUFFIX,dmm.com,🇯🇵 DMM专用',
       'DOMAIN-SUFFIX,dmm-extension.com,🇯🇵 DMM专用',
-    ].forEach(rule => {
+    ].reverse().forEach(rule => {
         rawObj.rules.unshift(rule);
     });
+    rawObj.rules.splice(9104,3)
     return yaml.stringify(rawObj)
   }
