@@ -12,12 +12,12 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
           'name': '🇯🇵 DMM专用',
           'type': 'url-test',
           'proxies': dmmNodes,
-          'url': 'https://www.dmm.co.jp/top/',
+          'url': 'https://www.dmm.co.jp',
           'interval': 300
         });
       }
       
-      [
+      const cusRules = [
       'DOMAIN-SUFFIX,gmgard.com,🔰 节点选择',
       'DOMAIN-SUFFIX,mega.io,🔰 节点选择',
       'DOMAIN-SUFFIX,mega.co.nz,🔰 节点选择',
@@ -54,9 +54,10 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
       'DOMAIN-SUFFIX,dmm.co.jp,🇯🇵 DMM专用',
       'DOMAIN-SUFFIX,dmm.com,🇯🇵 DMM专用',
       'DOMAIN-SUFFIX,dmm-extension.com,🇯🇵 DMM专用',
-    ].reverse().forEach(rule => {
+    ]/*.reverse().forEach(rule => {
         rawObj.rules.unshift(rule);
-    });
+    })*/;
+    rawObj.rules.unshift(...cusRules);
     rawObj.rules.splice(9104,3)
     return yaml.stringify(rawObj)
   }

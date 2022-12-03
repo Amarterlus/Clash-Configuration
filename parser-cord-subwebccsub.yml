@@ -2,3 +2,4 @@ parsers: # array
   - reg: https://subweb.ccsub.site.+$
     remote:
       url: https://github.com/Amarterlus/Clash-Configuration/raw/master/parser-cord-subwebccsub-execute.js
+    #file: 'D:\ws\ClashParsers\parser-cord-subwebccsub-execute.js'
