@@ -1,6 +1,6 @@
 module.exports.parse = ({ content, name, url }, { yaml, axios, notify }) => {
 
-    dmmNodes = [];
+    var dmmNodes = [];
     for (let proxy of content.proxies) {
       if (proxy.server === undefined) continue;
       if (proxy.name.indexOf('🇯🇵') !== -1 || proxy.name.indexOf('日本') !== -1) {
