@@ -30,6 +30,7 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
       'DOMAIN-SUFFIX,imgur.com,🔰 节点选择',
       'DOMAIN-SUFFIX,cloudflare.com,🔰 节点选择',
       'DOMAIN-SUFFIX,onedrive.live.com,🔰 节点选择',
+      'DOMAIN-SUFFIX,apkleecher.com,🔰 节点选择',
       'DOMAIN-SUFFIX,prestige-av.com,🔰 节点选择',
       'DOMAIN-SUFFIX,dlsite.com,🔰 节点选择',
       'DOMAIN-SUFFIX,wnacg.com,🔰 节点选择',
@@ -54,6 +55,8 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
       'DOMAIN-SUFFIX,githubassets.com,🔰 节点选择',
       'DOMAIN-SUFFIX,btdig.com,🔰 节点选择',
       'DOMAIN-SUFFIX,openai.com,🔰 节点选择',
+      'DOMAIN-SUFFIX,kemono.party,🔰 节点选择',
+      'DOMAIN-SUFFIX,rule34video.com,🔰 节点选择',
       'DOMAIN-SUFFIX,dmm.co.jp,🇯🇵 DMM专用',
       'DOMAIN-SUFFIX,dmm.com,🇯🇵 DMM专用',
       'DOMAIN-SUFFIX,dmm-extension.com,🇯🇵 DMM专用',
@@ -61,6 +64,6 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
         rawObj.rules.unshift(rule);
     })*/;
     rawObj.rules.unshift(...cusRules);
-    rawObj.rules.splice(9107,3)
+    rawObj.rules.splice(9110,3)
     return yaml.stringify(rawObj)
   }
