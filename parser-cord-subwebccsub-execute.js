@@ -8,13 +8,22 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
       }
     }
     if (dmmNodes.length > 0) {
-        rawObj['proxy-groups'].push({
+        /*rawObj['proxy-groups'].push({
           'name': '🇯🇵 DMM专用',
           'type': 'url-test',
           'proxies': dmmNodes,
           'url': 'https://www.dmm.co.jp',
           'interval': 300
-        });
+        });*/
+          rawObj['proxy-groups']
+          .splice(rawObj['proxy-groups'].length - 1, 0,
+          {
+            'name': '🇯🇵 DMM专用',
+            'type': 'url-test',
+            'proxies': dmmNodes,
+            'url': 'https://www.dmm.co.jp',
+            'interval': 300 
+          });
       }
       
       const cusRules = [
@@ -64,7 +73,14 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
     ]/*.reverse().forEach(rule => {
         rawObj.rules.unshift(rule);
     })*/;
+    for (let i = 0; i < rawObj.rules.length; i++) {
+      let rule = rawObj.rules[i];
+      if (rule.includes(",dmm.co") || rule.includes(",dmm-") || rule.includes("bugly")) {
+          rawObj.rules.splice(i, 1);
+          i--;
+      }
+    }
     rawObj.rules.unshift(...cusRules);
-    rawObj.rules.splice(9111,3)
+    //rawObj.rules.splice(9111,3)
     return yaml.stringify(rawObj)
   }
