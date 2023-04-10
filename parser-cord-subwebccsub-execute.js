@@ -1,12 +1,30 @@
 module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url, interval, selected }) => {
     const rawObj = yaml.parse(raw)
     var dmmNodes = new Array();
+    var twNodes = new Array();
     for (let proxy of rawObj.proxies) {
       if (proxy.server === undefined) continue;
       if (proxy.name.indexOf('🇯🇵') !== -1 || proxy.name.indexOf('日本') !== -1) {
           dmmNodes.push(proxy.name);
       }
+
+      if (proxy.name.indexOf('🇨🇳') !== -1 && proxy.name.indexOf('台湾') !== -1) {
+          twNodes.push(proxy.name);
+      }
     }
+
+    if(twNodes.length > 0) {
+      rawObj['proxy-groups']
+          .splice(rawObj['proxy-groups'].length - 1, 0,
+          {
+            'name': '🇨🇳 台湾-巴哈姆特',
+            'type': 'url-test',
+            'proxies': twNodes,
+            'url': 'https://ani.gamer.com.tw',
+            'interval': 300 
+          });
+    }
+
     if (dmmNodes.length > 0) {
         /*rawObj['proxy-groups'].push({
           'name': '🇯🇵 DMM专用',
@@ -15,6 +33,7 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
           'url': 'https://www.dmm.co.jp',
           'interval': 300
         });*/
+
           rawObj['proxy-groups']
           .splice(rawObj['proxy-groups'].length - 1, 0,
           {
@@ -67,6 +86,7 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
       'DOMAIN-SUFFIX,freegpt.one,🔰 节点选择',
       'DOMAIN-SUFFIX,kemono.party,🔰 节点选择',
       'DOMAIN-SUFFIX,rule34video.com,🔰 节点选择',
+      'DOMAIN-SUFFIX,ani.gamer.com.tw,🇨🇳 台湾-巴哈姆特',
       'DOMAIN-SUFFIX,dmm.co.jp,🇯🇵 DMM专用',
       'DOMAIN-SUFFIX,dmm.com,🇯🇵 DMM专用',
       'DOMAIN-SUFFIX,dmm-extension.com,🇯🇵 DMM专用',
@@ -80,6 +100,7 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
           i--;
       }
     }
+
     rawObj.rules.unshift(...cusRules);
     //rawObj.rules.splice(9111,3)
     return yaml.stringify(rawObj)
