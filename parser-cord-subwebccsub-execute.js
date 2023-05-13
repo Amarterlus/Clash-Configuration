@@ -90,6 +90,7 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
       'DOMAIN-SUFFIX,javbus.com,🔰 节点选择',
       'DOMAIN-SUFFIX,javlibrary.com,🔰 节点选择',
       'DOMAIN-SUFFIX,tftactics.gg,🔰 节点选择',
+      'DOMAIN-KEYWORD,parsec,🔰 节点选择',
       'DOMAIN-SUFFIX,studiofow.com,🔰 节点选择',
       'DOMAIN-SUFFIX,jsdelivr.net,🔰 节点选择',
       'DOMAIN-SUFFIX,patreon.com,🔰 节点选择',
