@@ -18,6 +18,19 @@ script-providers:
     url: https://github.com/Amarterlus/Clash-Configuration/raw/master/stashRequest.js
     interval: 86400
 
+  # url-rewrite:
+    # - ^https?://cn\.bing\.com https://www.bing.com header # 重写请求头的域名
+
+proxy-groups:
+  - name: 🇯🇵专用
+    type: url-test
+    include-all: true # 引用所有 proxies & proxy-providers
+    filter: '🇯🇵|日本' # 筛选含有 🇯🇵 或日本关键字的代理
+  - name: 🇺🇸 美国
+    type: url-test
+    include-all: true
+    filter: '🇺🇸|美国'
+
 rules:
   - DOMAIN-SUFFIX,gmgard.com,🔰 节点选择
   - DOMAIN-SUFFIX,iili.io,🔰 节点选择
@@ -65,3 +78,6 @@ rules:
   - DOMAIN-SUFFIX,freegpt.one,🔰 节点选择
   - DOMAIN-SUFFIX,kemono.party,🔰 节点选择
   - DOMAIN-SUFFIX,rule34video.com,🔰 节点选择
+  - DOMAIN-SUFFIX,rule34.us,🇺🇸 美国
+  - DOMAIN-SUFFIX,dmm.co.jp,🇯🇵专用
+  - DOMAIN-SUFFIX,dmm.com,🇯🇵专用
