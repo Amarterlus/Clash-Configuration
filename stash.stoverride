@@ -26,11 +26,11 @@ script:
     # 4483 与 9305 为 BiliBili 的 QUIC CDN
     biliquic: network == 'udp' and (dst_port == 443 or dst_port == 4483 or dst_port == 9305)
 
-# proxy-groups:
-#   - name: 🇯🇵专用
-#     type: url-test
-#     include-all: true # 引用所有 proxies & proxy-providers
-#     filter: '🇯🇵|日本' # 筛选含有 🇯🇵 或日本关键字的代理
+proxy-groups:
+  - name: 🇯🇵节点
+    type: url-test
+    include-all: true # 引用所有 proxies & proxy-providers
+    filter: '🇯🇵|日本' # 筛选含有 🇯🇵 或日本关键字的代理
 #   - name: 🇺🇸 美国
 #     type: url-test
 #     include-all: true
@@ -55,6 +55,8 @@ rule-providers:
 rules: #!replace
   - SCRIPT,biliquic,REJECT,no-track
   - DOMAIN-SUFFIX,cm.bilibili.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,dmm.co.jp,🇯🇵节点
+  - DOMAIN-SUFFIX,dmm.com,🇯🇵节点
   - DOMAIN-SUFFIX,gmgard.com,🔰 节点选择
   - DOMAIN-SUFFIX,iili.io,🔰 节点选择
   - DOMAIN-SUFFIX,mega.io,🔰 节点选择
@@ -478,5 +480,3 @@ rules: #!replace
   - GEOIP,CN,🎯 全球直连
   - MATCH,🐟 漏网之鱼
   # - DOMAIN-SUFFIX,rule34.us,🇺🇸 美国
-  # - DOMAIN-SUFFIX,dmm.co.jp,🇯🇵专用
-  # - DOMAIN-SUFFIX,dmm.com,🇯🇵专用
