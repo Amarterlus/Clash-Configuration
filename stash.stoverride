@@ -6,15 +6,17 @@ http:
     - match: ^https?:\/\/dmm\.co\.jp
       name: dmm-header
       type: request
-      timeout: 20
-      argument: ''
-      binary-mode: false
-      max-size: 1048576 # 1MB
+    - match: ^https?:\/\/dmm\.com
+      name: dmm-header2
+      type: request
  
 script-providers:
   dmm-header:
     url: https://github.com/Amarterlus/Clash-Configuration/raw/master/stashRequest.js
-    interval: 0
+    interval: 86400
+  dmm-header2:
+    url: https://github.com/Amarterlus/Clash-Configuration/raw/master/stashRequest.js
+    interval: 86400
 
 rules:
   - DOMAIN-SUFFIX,gmgard.com,🔰 节点选择
