@@ -71,6 +71,7 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
       
       const cusRules = [
       'DOMAIN-SUFFIX,gmgard.com,🔰 节点选择',
+      'DOMAIN-SUFFIX,iili.io,🔰 节点选择',
       'DOMAIN-SUFFIX,mega.io,🔰 节点选择',
       'DOMAIN-SUFFIX,mega.co.nz,🔰 节点选择',
       'DOMAIN-SUFFIX,bangumi.tv,🔰 节点选择',
@@ -90,7 +91,8 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
       'DOMAIN-SUFFIX,javbus.com,🔰 节点选择',
       'DOMAIN-SUFFIX,javlibrary.com,🔰 节点选择',
       'DOMAIN-SUFFIX,tftactics.gg,🔰 节点选择',
-      'DOMAIN-KEYWORD,parsec,🔰 节点选择',
+      'DOMAIN-KEYWORD,fanbox,🔰 节点选择',
+      'DOMAIN-SUFFIX,railway.app,🔰 节点选择',
       'DOMAIN-SUFFIX,studiofow.com,🔰 节点选择',
       'DOMAIN-SUFFIX,jsdelivr.net,🔰 节点选择',
       'DOMAIN-SUFFIX,patreon.com,🔰 节点选择',
