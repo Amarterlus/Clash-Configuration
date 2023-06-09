@@ -1,6 +1,21 @@
 name: Dulun's Stash Rules
 desc: 添加Dulun的自定义规则
 
+http:
+  script:
+    - match: ^https?:\/\/dmm\.co\.jp
+      name: dmm-header
+      type: request
+      timeout: 20
+      argument: ''
+      binary-mode: false
+      max-size: 1048576 # 1MB
+ 
+script-providers:
+  dmm-header:
+    url: https://github.com/Amarterlus/Clash-Configuration/raw/master/stashRequest.js
+    interval: 0
+
 rules:
   - DOMAIN-SUFFIX,gmgard.com,🔰 节点选择
   - DOMAIN-SUFFIX,iili.io,🔰 节点选择

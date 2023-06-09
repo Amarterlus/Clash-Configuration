@@ -1,4 +1,4 @@
-module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url, interval, selected }) => {
+export async function parse(raw, { axios, yaml, notify, console }, { name, url, interval, selected }) {
     const rawObj = yaml.parse(raw)
     var dmmNodes = new Array();
     var twNodes = new Array();
@@ -50,14 +50,6 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
     }
 
     if (dmmNodes.length > 0) {
-        /*rawObj['proxy-groups'].push({
-          'name': '🇯🇵 DMM专用',
-          'type': 'url-test',
-          'proxies': dmmNodes,
-          'url': 'https://www.dmm.co.jp',
-          'interval': 300
-        });*/
-
           rawObj['proxy-groups']
           .splice(rawObj['proxy-groups'].length - 1, 0,
           {
@@ -135,6 +127,5 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
     }
 
     rawObj.rules.unshift(...cusRules);
-    //rawObj.rules.splice(9111,3)
     return yaml.stringify(rawObj)
   }
