@@ -54,6 +54,7 @@ rule-providers:
 
 rules: #!replace
   - SCRIPT,biliquic,REJECT,no-track
+  - DOMAIN-SUFFIX,cm.bilibili.com,🛑 全球拦截
   - DOMAIN-SUFFIX,gmgard.com,🔰 节点选择
   - DOMAIN-SUFFIX,iili.io,🔰 节点选择
   - DOMAIN-SUFFIX,mega.io,🔰 节点选择
