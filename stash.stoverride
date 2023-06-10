@@ -31,10 +31,14 @@ proxy-groups:
     type: url-test
     include-all: true # 引用所有 proxies & proxy-providers
     filter: '🇯🇵|日本' # 筛选含有 🇯🇵 或日本关键字的代理
-#   - name: 🇺🇸 美国
-#     type: url-test
-#     include-all: true
-#     filter: '🇺🇸|美国'
+  - name: 🇨🇳 台湾
+    type: url-test
+    include-all: true
+    filter: '台湾|🇨🇳'
+  - name: 🇭🇰 香港
+    type: select
+    include-all: true
+    filter: '🇭🇰|香港'
 
 rule-providers:
   proxy-domain:
