@@ -1,4 +1,4 @@
-export async function parse(raw, { axios, yaml, notify, console }, { name, url, interval, selected }) {
+module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url, interval, selected }) => {
     const rawObj = yaml.parse(raw)
     var dmmNodes = new Array();
     var twNodes = new Array();

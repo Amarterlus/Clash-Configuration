@@ -16,10 +16,10 @@ http:
 script-providers:
   dmm-header:
     url: https://github.com/Amarterlus/Clash-Configuration/raw/master/stashRequest.js
-    interval: 86400
+    interval: -1
   dmm-header2:
     url: https://github.com/Amarterlus/Clash-Configuration/raw/master/stashRequest.js
-    interval: 86400
+    interval: -1
 
 script:
   shortcuts:
