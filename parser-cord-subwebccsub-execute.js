@@ -86,6 +86,7 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
       'DOMAIN-KEYWORD,fanbox,🔰 节点选择',
       'DOMAIN-SUFFIX,railway.app,🔰 节点选择',
       'DOMAIN-SUFFIX,koyeb.com,🔰 节点选择',
+      'DOMAIN-SUFFIX,koyeb.app,🔰 节点选择',
       'DOMAIN-SUFFIX,studiofow.com,🔰 节点选择',
       'DOMAIN-SUFFIX,jsdelivr.net,🔰 节点选择',
       'DOMAIN-SUFFIX,patreon.com,🔰 节点选择',
