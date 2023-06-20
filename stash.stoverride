@@ -27,18 +27,10 @@ script:
     biliquic: network == 'udp' and (dst_port == 443 or dst_port == 4483 or dst_port == 9305)
 
 proxy-groups:
-  - name: 🇯🇵节点
-    type: url-test
-    include-all: true # 引用所有 proxies & proxy-providers
-    filter: '🇯🇵|日本' # 筛选含有 🇯🇵 或日本关键字的代理
-  - name: 🇨🇳 台湾
-    type: url-test
-    include-all: true
-    filter: '台湾'
   - name: 🇭🇰 香港
     type: select
-    include-all: true
-    filter: '🇭🇰|香港'
+    include-all: true # 引用所有 proxies & proxy-providers
+    filter: '🇭🇰|香港' # 筛选含有 🇭🇰 或香港关键字的代理
 
 rule-providers:
   proxy-domain:
@@ -58,9 +50,6 @@ rule-providers:
 
 rules: #!replace
   - SCRIPT,biliquic,REJECT,no-track
-  - DOMAIN-SUFFIX,cm.bilibili.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,dmm.co.jp,🇯🇵节点
-  - DOMAIN-SUFFIX,dmm.com,🇯🇵节点
   - DOMAIN-SUFFIX,gmgard.com,🔰 节点选择
   - DOMAIN-SUFFIX,iili.io,🔰 节点选择
   - DOMAIN-SUFFIX,mega.io,🔰 节点选择
@@ -485,4 +474,3 @@ rules: #!replace
   - RULE-SET,proxy-domain,🔰 节点选择
   - GEOIP,CN,🎯 全球直连,no-resolve
   - MATCH,🐟 漏网之鱼
-  # - DOMAIN-SUFFIX,rule34.us,🇺🇸 美国
