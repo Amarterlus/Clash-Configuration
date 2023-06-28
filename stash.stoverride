@@ -15,11 +15,11 @@ http:
  
 script-providers:
   dmm-header:
-    url: https://github.com/Amarterlus/Clash-Configuration/raw/master/stashRequest.js
-    interval: -1
+    url: https://github.com/Amarterlus/Clash-Configuration/raw/master/scripts/dmmRequest.js
+    interval: 864000000
   dmm-header2:
-    url: https://github.com/Amarterlus/Clash-Configuration/raw/master/stashRequest.js
-    interval: -1
+    url: https://github.com/Amarterlus/Clash-Configuration/raw/master/scripts/dmmRequest.js
+    interval: 864000000
 
 script:
   shortcuts:
@@ -49,7 +49,7 @@ rule-providers:
     interval: 86400
 
 rules: #!replace
-  - SCRIPT,biliquic,REJECT,no-track
+  # - SCRIPT,biliquic,REJECT,no-track
   - DOMAIN-SUFFIX,gmgard.com,🔰 节点选择
   - DOMAIN-SUFFIX,iili.io,🔰 节点选择
   - DOMAIN-SUFFIX,mega.io,🔰 节点选择
