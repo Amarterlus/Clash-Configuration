@@ -101,7 +101,7 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
       'DOMAIN-SUFFIX,paimon.moe,🔰 节点选择',
       'DOMAIN-SUFFIX,freedl.org,🔰 节点选择',
       'DOMAIN-SUFFIX,repo.maven.apache.org,🔰 节点选择',
-      'DOMAIN-SUFFIX,gradle.org,🔰 节点选择',
+      'DOMAIN-SUFFIX,mvnrepository.com,🔰 节点选择',
       'DOMAIN-SUFFIX,npmjs.org,🔰 节点选择',
       'DOMAIN-SUFFIX,sentry-cdn.com,🔰 节点选择',
       'DOMAIN-SUFFIX,githubassets.com,🔰 节点选择',
