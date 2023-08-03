@@ -80,6 +80,7 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
       'DOMAIN-SUFFIX,prestige-av.com,🔰 节点选择',
       'DOMAIN-SUFFIX,dlsite.com,🔰 节点选择',
       'DOMAIN-SUFFIX,exhentai.org,🔰 节点选择',
+      'DOMAIN-SUFFIX,nhentai.net,🔰 节点选择',
       'DOMAIN-SUFFIX,javbus.com,🔰 节点选择',
       'DOMAIN-SUFFIX,javlibrary.com,🔰 节点选择',
       'DOMAIN-SUFFIX,tftactics.gg,🔰 节点选择',

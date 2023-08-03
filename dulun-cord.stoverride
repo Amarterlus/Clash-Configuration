@@ -11,6 +11,7 @@ http:
       type: request
   url-rewrite:
     - ^https?://cn\.bing\.com https://www.bing.com header # 重写请求头的域名
+    - ^https?://www\.google\.cn https://www.google.com header
 
  
 script-providers:
