@@ -50,7 +50,8 @@ rule-providers:
     interval: 86400
 
 rules: #!replace
-  # - SCRIPT,biliquic,REJECT,no-track
+  - SCRIPT,biliquic,REJECT,no-track
+  - DOMAIN-SUFFIX,translate.googleapis.com,🔰 节点选择
   - DOMAIN-SUFFIX,gmgard.com,🔰 节点选择
   - DOMAIN-SUFFIX,iili.io,🔰 节点选择
   - DOMAIN-SUFFIX,mega.io,🔰 节点选择
