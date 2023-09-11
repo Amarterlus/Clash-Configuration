@@ -15,7 +15,7 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
 
     if (proxy.name.indexOf('🇺🇸') !== -1 || proxy.name.indexOf('美国') !== -1) {
         usNodes.push(proxy.name);
-    }*/ 
+    }*/
   }
 
   //splice方法 第一个是位置 length - 1 = 倒数第二个 第二个参数是需要删除的元素数 如果为0 相当于insert
@@ -113,6 +113,25 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
     'DOMAIN-SUFFIX,kemono.su,🔰 节点选择',
     'DOMAIN-SUFFIX,rule34video.com,🔰 节点选择',
     'DOMAIN-SUFFIX,translate.googleapis.com,🔰 节点选择',
+    'DOMAIN,steampipe.steamcontent.tnkjmec.com,🔰 节点选择',
+    'DOMAIN,csgo.wmsj.cn,🔰 节点选择',
+    'DOMAIN,dl.steam.clngaa.com,🔰 节点选择',
+    'DOMAIN,dl.steam.ksyna.com,🔰 节点选择',
+    'DOMAIN,dota2.wmsj.cn,🔰 节点选择',
+    'DOMAIN,st.dl.bscstorage.net,🔰 节点选择',
+    'DOMAIN,st.dl.eccdnx.com,🔰 节点选择',
+    'DOMAIN,st.dl.pinyuncloud.com,🔰 节点选择',
+    'DOMAIN,steampowered.com.8686c.com,🔰 节点选择',
+    'DOMAIN,steamstatic.com.8686c.com,🔰 节点选择',
+    'DOMAIN,wmsjsteam.com,🔰 节点选择',
+    'DOMAIN,xz.pphimalayanrt.com,🔰 节点选择',
+    'DOMAIN-SUFFIX,cm.steampowered.com,🔰 节点选择',
+    'DOMAIN-SUFFIX,steamchina.com,🔰 节点选择',
+    'DOMAIN-SUFFIX,steamcontent.com,🔰 节点选择',
+    'DOMAIN-SUFFIX,steamserver.net,🔰 节点选择',
+    'DOMAIN-SUFFIX,steamusercontent.com,🔰 节点选择',
+    'DOMAIN-SUFFIX,vivaldi.com,🔰 节点选择',
+    'DOMAIN-SUFFIX,backenster.com,🔰 节点选择',
     // 'DOMAIN-SUFFIX,rule34.us,🇺🇸 美国',
     // 'DOMAIN-SUFFIX,ani.gamer.com.tw,🇨🇳 台湾',
     'DOMAIN-SUFFIX,dmm.co.jp,🇯🇵 DMM专用',
