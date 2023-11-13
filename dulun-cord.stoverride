@@ -9,9 +9,6 @@ http:
     - match: ^https?:\/\/dmm\.com
       name: dmm-header2
       type: request
-  url-rewrite:
-    # - ^https?://cn\.bing\.com https://www.bing.com header
-    - ^https?://www\.google\.cn https://www.google.com header
 
  
 script-providers:

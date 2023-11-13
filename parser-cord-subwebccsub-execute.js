@@ -63,6 +63,7 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
 
   const cusRules = [
     'DOMAIN-SUFFIX,gmgard.com,🔰 节点选择',
+    'DOMAIN-SUFFIX,sukebei.nyaa.si,🔰 节点选择',
     'DOMAIN-SUFFIX,iili.io,🔰 节点选择',
     'DOMAIN-SUFFIX,mega.io,🔰 节点选择',
     'DOMAIN-SUFFIX,mega.co.nz,🔰 节点选择',
@@ -102,10 +103,9 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
     'DOMAIN-SUFFIX,paimon.moe,🔰 节点选择',
     'DOMAIN-SUFFIX,freedl.org,🔰 节点选择',
     'DOMAIN-SUFFIX,repo.maven.apache.org,🔰 节点选择',
-    'DOMAIN-SUFFIX,mvnrepository.com,🔰 节点选择',
+    // 'DOMAIN-SUFFIX,mvnrepository.com,🔰 节点选择',
     'DOMAIN-SUFFIX,npmjs.org,🔰 节点选择',
     'DOMAIN-SUFFIX,sentry-cdn.com,🔰 节点选择',
-    'DOMAIN-SUFFIX,githubassets.com,🔰 节点选择',
     'DOMAIN-SUFFIX,btdig.com,🔰 节点选择',
     'DOMAIN-SUFFIX,openai.com,🔰 节点选择',
     'DOMAIN-SUFFIX,freegpt.one,🔰 节点选择',
@@ -132,7 +132,6 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
     'DOMAIN-SUFFIX,steamusercontent.com,🔰 节点选择',
     'DOMAIN-SUFFIX,vivaldi.com,🔰 节点选择',
     'DOMAIN-SUFFIX,backenster.com,🔰 节点选择',
-    // 'DOMAIN-SUFFIX,rule34.us,🇺🇸 美国',
     // 'DOMAIN-SUFFIX,ani.gamer.com.tw,🇨🇳 台湾',
     'DOMAIN-SUFFIX,dmm.co.jp,🇯🇵 DMM专用',
     'DOMAIN-SUFFIX,dmm.com,🇯🇵 DMM专用',
@@ -140,6 +139,7 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
   ]/*.reverse().forEach(rule => {
         rawObj.rules.unshift(rule);
     })*/;
+    
   // 移除原本不需要规则
   for (let i = 0; i < rawObj.rules.length; i++) {
     let rule = rawObj.rules[i];
