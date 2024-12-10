@@ -19,7 +19,7 @@ http:
     # upos-sz-mirrorbs.bilivideo.com
     # upos-sz-mirrorali.bilivideo.com
 script:
-  biliquic:
+  shortcuts:
     bilibili-quic: network == 'udp' and geoip(dst_ip) == 'CN' and dst_port == 3478
 
 # proxy-groups:
@@ -45,7 +45,7 @@ rule-providers:
     interval: 86400
 
 rules: #!replace
-  - SCRIPT,biliquic,REJECT,no-track
+  - SCRIPT,bilibili-quic,REJECT,no-track
   - RULE-SET,lan-cidr,🎯 全球直连,no-resolve
   - RULE-SET,ip-cidr-text,🎯 全球直连,no-resolve
   - RULE-SET,proxy-domain,🔰 节点选择
