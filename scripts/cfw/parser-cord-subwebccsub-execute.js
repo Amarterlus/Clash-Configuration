@@ -132,10 +132,12 @@ module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url
     'DOMAIN-SUFFIX,steamusercontent.com,🔰 节点选择',
     'DOMAIN-SUFFIX,vivaldi.com,🔰 节点选择',
     'DOMAIN-SUFFIX,backenster.com,🔰 节点选择',
+    'DOMAIN-KEYWORD,vercel.app,🔰 节点选择',
     // 'DOMAIN-SUFFIX,ani.gamer.com.tw,🇨🇳 台湾',
     'DOMAIN-SUFFIX,dmm.co.jp,🇯🇵 DMM专用',
     'DOMAIN-SUFFIX,dmm.com,🇯🇵 DMM专用',
     'DOMAIN-SUFFIX,dmm-extension.com,🇯🇵 DMM专用',
+    'DOMAIN-SUFFIX,tv.dmm.co.jp,🇯🇵 DMM专用',
   ]/*.reverse().forEach(rule => {
         rawObj.rules.unshift(rule);
     })*/;
