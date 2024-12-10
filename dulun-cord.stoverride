@@ -19,7 +19,7 @@ http:
     # upos-sz-mirrorbs.bilivideo.com
     # upos-sz-mirrorali.bilivideo.com
 script:
-  shortcuts:
+  biliquic:
     bilibili-quic: network == 'udp' and geoip(dst_ip) == 'CN' and dst_port == 3478
 
 # proxy-groups:
