@@ -49,5 +49,16 @@ rules: #!replace
   - RULE-SET,lan-cidr,🎯 全球直连,no-resolve
   - RULE-SET,ip-cidr-text,🎯 全球直连,no-resolve
   - RULE-SET,proxy-domain,🔰 节点选择
+  - IP-CIDR,91.108.4.0/22,📲 电报信息,no-resolve
+  - IP-CIDR,91.108.8.0/22,📲 电报信息,no-resolve
+  - IP-CIDR,91.108.12.0/22,📲 电报信息,no-resolve
+  - IP-CIDR,91.108.16.0/22,📲 电报信息,no-resolve
+  - IP-CIDR,91.108.20.0/22,📲 电报信息,no-resolve
+  - IP-CIDR,91.108.56.0/22,📲 电报信息,no-resolve
+  - IP-CIDR,95.161.64.0/20,📲 电报信息,no-resolve
+  - IP-CIDR,149.154.160.0/20,📲 电报信息,no-resolve
+  - IP-CIDR6,2001:b28:f23d::/48,📲 电报信息,no-resolve
+  - IP-CIDR6,2001:b28:f23f::/48,📲 电报信息,no-resolve
+  - IP-CIDR6,2001:67c:4e8::/48,📲 电报信息,no-resolve
   - GEOIP,CN,🎯 全球直连,no-resolve
   - MATCH,🐟 漏网之鱼
