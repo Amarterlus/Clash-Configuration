@@ -247,10 +247,7 @@ function main(config, proFileName) {
       ...groupBaseOption,
       name: "节点选择",
       type: "select",
-      proxies: [
-        "全局直连",
-        "延迟选优"
-      ],
+      proxies: ["全局直连", "延迟选优"],
       "include-all": true,
       icon: "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/adjust.svg",
     },
@@ -328,7 +325,7 @@ function main(config, proFileName) {
       icon: "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/block.svg",
     },
   ];
-  
+
   // 覆盖原配置中的规则
   config["rule-providers"] = ruleProviders;
   config["rules"] = rules;

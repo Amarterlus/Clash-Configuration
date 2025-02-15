@@ -1,0 +1,2238 @@
+{
+    "name": "dulun-clash-verge-rev",
+    "description": "A Clash Icon Set for Dulun",
+    "icons": [
+        {
+            "name": "adjust.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/adjust.svg"
+        },
+        {
+            "name": "amazon.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/amazon.svg"
+        },
+        {
+            "name": "ambulance.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/ambulance.svg"
+        },
+        {
+            "name": "android.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/android.svg"
+        },
+        {
+            "name": "apple.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/apple.svg"
+        },
+        {
+            "name": "app_store.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/app_store.svg"
+        },
+        {
+            "name": "balance.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/balance.svg"
+        },
+        {
+            "name": "bing.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/bing.svg"
+        },
+        {
+            "name": "block.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/block.svg"
+        },
+        {
+            "name": "bug.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/bug.svg"
+        },
+        {
+            "name": "chatgpt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/chatgpt.svg"
+        },
+        {
+            "name": "claude.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/claude.svg"
+        },
+        {
+            "name": "cloudflare.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/cloudflare.svg"
+        },
+        {
+            "name": "css.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/css.svg"
+        },
+        {
+            "name": "discord.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/discord.svg"
+        },
+        {
+            "name": "disney_plus.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/disney_plus.svg"
+        },
+        {
+            "name": "embedded.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/embedded.svg"
+        },
+        {
+            "name": "epic.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/epic.svg"
+        },
+        {
+            "name": "facebook.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/facebook.svg"
+        },
+        {
+            "name": "fish.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/fish.svg"
+        },
+        {
+            "name": "ad.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ad.svg"
+        },
+        {
+            "name": "ae.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ae.svg"
+        },
+        {
+            "name": "af.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/af.svg"
+        },
+        {
+            "name": "ag.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ag.svg"
+        },
+        {
+            "name": "ai.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ai.svg"
+        },
+        {
+            "name": "al.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/al.svg"
+        },
+        {
+            "name": "am.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/am.svg"
+        },
+        {
+            "name": "ao.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ao.svg"
+        },
+        {
+            "name": "aq.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/aq.svg"
+        },
+        {
+            "name": "ar.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ar.svg"
+        },
+        {
+            "name": "as.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/as.svg"
+        },
+        {
+            "name": "at.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/at.svg"
+        },
+        {
+            "name": "au.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/au.svg"
+        },
+        {
+            "name": "aw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/aw.svg"
+        },
+        {
+            "name": "ax.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ax.svg"
+        },
+        {
+            "name": "az.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/az.svg"
+        },
+        {
+            "name": "ba.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ba.svg"
+        },
+        {
+            "name": "bb.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bb.svg"
+        },
+        {
+            "name": "bd.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bd.svg"
+        },
+        {
+            "name": "be.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/be.svg"
+        },
+        {
+            "name": "bf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bf.svg"
+        },
+        {
+            "name": "bg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bg.svg"
+        },
+        {
+            "name": "bh.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bh.svg"
+        },
+        {
+            "name": "bi.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bi.svg"
+        },
+        {
+            "name": "bj.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bj.svg"
+        },
+        {
+            "name": "bl.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bl.svg"
+        },
+        {
+            "name": "bm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bm.svg"
+        },
+        {
+            "name": "bn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bn.svg"
+        },
+        {
+            "name": "bo.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bo.svg"
+        },
+        {
+            "name": "bq.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bq.svg"
+        },
+        {
+            "name": "br.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/br.svg"
+        },
+        {
+            "name": "bs.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bs.svg"
+        },
+        {
+            "name": "bt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bt.svg"
+        },
+        {
+            "name": "bv.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bv.svg"
+        },
+        {
+            "name": "bw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bw.svg"
+        },
+        {
+            "name": "by.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/by.svg"
+        },
+        {
+            "name": "bz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bz.svg"
+        },
+        {
+            "name": "ca.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ca.svg"
+        },
+        {
+            "name": "cc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cc.svg"
+        },
+        {
+            "name": "cd.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cd.svg"
+        },
+        {
+            "name": "cf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cf.svg"
+        },
+        {
+            "name": "cg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cg.svg"
+        },
+        {
+            "name": "ch.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ch.svg"
+        },
+        {
+            "name": "ci.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ci.svg"
+        },
+        {
+            "name": "ck.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ck.svg"
+        },
+        {
+            "name": "cl.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cl.svg"
+        },
+        {
+            "name": "cm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cm.svg"
+        },
+        {
+            "name": "cn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cn.svg"
+        },
+        {
+            "name": "co.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/co.svg"
+        },
+        {
+            "name": "cp.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cp.svg"
+        },
+        {
+            "name": "cr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cr.svg"
+        },
+        {
+            "name": "cu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cu.svg"
+        },
+        {
+            "name": "cv.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cv.svg"
+        },
+        {
+            "name": "cw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cw.svg"
+        },
+        {
+            "name": "cx.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cx.svg"
+        },
+        {
+            "name": "cy.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cy.svg"
+        },
+        {
+            "name": "cz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cz.svg"
+        },
+        {
+            "name": "de.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/de.svg"
+        },
+        {
+            "name": "dg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/dg.svg"
+        },
+        {
+            "name": "dj.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/dj.svg"
+        },
+        {
+            "name": "dk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/dk.svg"
+        },
+        {
+            "name": "dm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/dm.svg"
+        },
+        {
+            "name": "do.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/do.svg"
+        },
+        {
+            "name": "dz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/dz.svg"
+        },
+        {
+            "name": "ec.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ec.svg"
+        },
+        {
+            "name": "ee.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ee.svg"
+        },
+        {
+            "name": "eg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/eg.svg"
+        },
+        {
+            "name": "eh.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/eh.svg"
+        },
+        {
+            "name": "er.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/er.svg"
+        },
+        {
+            "name": "es.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/es.svg"
+        },
+        {
+            "name": "et.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/et.svg"
+        },
+        {
+            "name": "eu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/eu.svg"
+        },
+        {
+            "name": "fi.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/fi.svg"
+        },
+        {
+            "name": "fj.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/fj.svg"
+        },
+        {
+            "name": "fk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/fk.svg"
+        },
+        {
+            "name": "fm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/fm.svg"
+        },
+        {
+            "name": "fo.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/fo.svg"
+        },
+        {
+            "name": "fr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/fr.svg"
+        },
+        {
+            "name": "ga.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ga.svg"
+        },
+        {
+            "name": "gb.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gb.svg"
+        },
+        {
+            "name": "gd.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gd.svg"
+        },
+        {
+            "name": "ge.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ge.svg"
+        },
+        {
+            "name": "gf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gf.svg"
+        },
+        {
+            "name": "gg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gg.svg"
+        },
+        {
+            "name": "gh.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gh.svg"
+        },
+        {
+            "name": "gi.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gi.svg"
+        },
+        {
+            "name": "gl.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gl.svg"
+        },
+        {
+            "name": "gm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gm.svg"
+        },
+        {
+            "name": "gn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gn.svg"
+        },
+        {
+            "name": "gp.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gp.svg"
+        },
+        {
+            "name": "gq.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gq.svg"
+        },
+        {
+            "name": "gr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gr.svg"
+        },
+        {
+            "name": "gs.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gs.svg"
+        },
+        {
+            "name": "gt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gt.svg"
+        },
+        {
+            "name": "gu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gu.svg"
+        },
+        {
+            "name": "gw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gw.svg"
+        },
+        {
+            "name": "gy.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gy.svg"
+        },
+        {
+            "name": "hk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/hk.svg"
+        },
+        {
+            "name": "hm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/hm.svg"
+        },
+        {
+            "name": "hn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/hn.svg"
+        },
+        {
+            "name": "hr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/hr.svg"
+        },
+        {
+            "name": "ht.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ht.svg"
+        },
+        {
+            "name": "hu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/hu.svg"
+        },
+        {
+            "name": "ic.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ic.svg"
+        },
+        {
+            "name": "id.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/id.svg"
+        },
+        {
+            "name": "ie.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ie.svg"
+        },
+        {
+            "name": "il.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/il.svg"
+        },
+        {
+            "name": "im.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/im.svg"
+        },
+        {
+            "name": "in.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/in.svg"
+        },
+        {
+            "name": "io.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/io.svg"
+        },
+        {
+            "name": "iq.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/iq.svg"
+        },
+        {
+            "name": "ir.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ir.svg"
+        },
+        {
+            "name": "is.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/is.svg"
+        },
+        {
+            "name": "it.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/it.svg"
+        },
+        {
+            "name": "je.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/je.svg"
+        },
+        {
+            "name": "jm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/jm.svg"
+        },
+        {
+            "name": "jo.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/jo.svg"
+        },
+        {
+            "name": "jp.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/jp.svg"
+        },
+        {
+            "name": "ke.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ke.svg"
+        },
+        {
+            "name": "kg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/kg.svg"
+        },
+        {
+            "name": "kh.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/kh.svg"
+        },
+        {
+            "name": "ki.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ki.svg"
+        },
+        {
+            "name": "km.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/km.svg"
+        },
+        {
+            "name": "kn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/kn.svg"
+        },
+        {
+            "name": "kp.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/kp.svg"
+        },
+        {
+            "name": "kr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/kr.svg"
+        },
+        {
+            "name": "kw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/kw.svg"
+        },
+        {
+            "name": "ky.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ky.svg"
+        },
+        {
+            "name": "kz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/kz.svg"
+        },
+        {
+            "name": "la.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/la.svg"
+        },
+        {
+            "name": "lb.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/lb.svg"
+        },
+        {
+            "name": "lc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/lc.svg"
+        },
+        {
+            "name": "li.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/li.svg"
+        },
+        {
+            "name": "lk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/lk.svg"
+        },
+        {
+            "name": "lr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/lr.svg"
+        },
+        {
+            "name": "ls.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ls.svg"
+        },
+        {
+            "name": "lt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/lt.svg"
+        },
+        {
+            "name": "lu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/lu.svg"
+        },
+        {
+            "name": "lv.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/lv.svg"
+        },
+        {
+            "name": "ly.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ly.svg"
+        },
+        {
+            "name": "ma.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ma.svg"
+        },
+        {
+            "name": "mc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mc.svg"
+        },
+        {
+            "name": "md.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/md.svg"
+        },
+        {
+            "name": "me.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/me.svg"
+        },
+        {
+            "name": "mf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mf.svg"
+        },
+        {
+            "name": "mg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mg.svg"
+        },
+        {
+            "name": "mh.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mh.svg"
+        },
+        {
+            "name": "mk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mk.svg"
+        },
+        {
+            "name": "ml.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ml.svg"
+        },
+        {
+            "name": "mm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mm.svg"
+        },
+        {
+            "name": "mn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mn.svg"
+        },
+        {
+            "name": "mo.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mo.svg"
+        },
+        {
+            "name": "mp.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mp.svg"
+        },
+        {
+            "name": "mq.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mq.svg"
+        },
+        {
+            "name": "mr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mr.svg"
+        },
+        {
+            "name": "ms.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ms.svg"
+        },
+        {
+            "name": "mt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mt.svg"
+        },
+        {
+            "name": "mu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mu.svg"
+        },
+        {
+            "name": "mv.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mv.svg"
+        },
+        {
+            "name": "mw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mw.svg"
+        },
+        {
+            "name": "mx.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mx.svg"
+        },
+        {
+            "name": "my.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/my.svg"
+        },
+        {
+            "name": "mz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mz.svg"
+        },
+        {
+            "name": "na.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/na.svg"
+        },
+        {
+            "name": "nc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/nc.svg"
+        },
+        {
+            "name": "ne.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ne.svg"
+        },
+        {
+            "name": "nf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/nf.svg"
+        },
+        {
+            "name": "ng.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ng.svg"
+        },
+        {
+            "name": "ni.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ni.svg"
+        },
+        {
+            "name": "nl.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/nl.svg"
+        },
+        {
+            "name": "no.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/no.svg"
+        },
+        {
+            "name": "np.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/np.svg"
+        },
+        {
+            "name": "nr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/nr.svg"
+        },
+        {
+            "name": "nu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/nu.svg"
+        },
+        {
+            "name": "nz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/nz.svg"
+        },
+        {
+            "name": "om.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/om.svg"
+        },
+        {
+            "name": "pa.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pa.svg"
+        },
+        {
+            "name": "pc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pc.svg"
+        },
+        {
+            "name": "pe.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pe.svg"
+        },
+        {
+            "name": "pf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pf.svg"
+        },
+        {
+            "name": "pg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pg.svg"
+        },
+        {
+            "name": "ph.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ph.svg"
+        },
+        {
+            "name": "pk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pk.svg"
+        },
+        {
+            "name": "pl.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pl.svg"
+        },
+        {
+            "name": "pm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pm.svg"
+        },
+        {
+            "name": "pn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pn.svg"
+        },
+        {
+            "name": "pr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pr.svg"
+        },
+        {
+            "name": "ps.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ps.svg"
+        },
+        {
+            "name": "pt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pt.svg"
+        },
+        {
+            "name": "pw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pw.svg"
+        },
+        {
+            "name": "py.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/py.svg"
+        },
+        {
+            "name": "qa.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/qa.svg"
+        },
+        {
+            "name": "re.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/re.svg"
+        },
+        {
+            "name": "ro.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ro.svg"
+        },
+        {
+            "name": "rs.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/rs.svg"
+        },
+        {
+            "name": "ru.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ru.svg"
+        },
+        {
+            "name": "rw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/rw.svg"
+        },
+        {
+            "name": "sa.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sa.svg"
+        },
+        {
+            "name": "sb.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sb.svg"
+        },
+        {
+            "name": "sc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sc.svg"
+        },
+        {
+            "name": "sd.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sd.svg"
+        },
+        {
+            "name": "se.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/se.svg"
+        },
+        {
+            "name": "sg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sg.svg"
+        },
+        {
+            "name": "sh.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sh.svg"
+        },
+        {
+            "name": "si.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/si.svg"
+        },
+        {
+            "name": "sj.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sj.svg"
+        },
+        {
+            "name": "sk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sk.svg"
+        },
+        {
+            "name": "sl.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sl.svg"
+        },
+        {
+            "name": "sm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sm.svg"
+        },
+        {
+            "name": "sn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sn.svg"
+        },
+        {
+            "name": "so.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/so.svg"
+        },
+        {
+            "name": "sr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sr.svg"
+        },
+        {
+            "name": "ss.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ss.svg"
+        },
+        {
+            "name": "st.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/st.svg"
+        },
+        {
+            "name": "sv.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sv.svg"
+        },
+        {
+            "name": "sx.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sx.svg"
+        },
+        {
+            "name": "sy.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sy.svg"
+        },
+        {
+            "name": "sz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sz.svg"
+        },
+        {
+            "name": "tc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tc.svg"
+        },
+        {
+            "name": "td.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/td.svg"
+        },
+        {
+            "name": "tf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tf.svg"
+        },
+        {
+            "name": "tg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tg.svg"
+        },
+        {
+            "name": "th.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/th.svg"
+        },
+        {
+            "name": "tj.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tj.svg"
+        },
+        {
+            "name": "tk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tk.svg"
+        },
+        {
+            "name": "tl.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tl.svg"
+        },
+        {
+            "name": "tm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tm.svg"
+        },
+        {
+            "name": "tn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tn.svg"
+        },
+        {
+            "name": "to.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/to.svg"
+        },
+        {
+            "name": "tr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tr.svg"
+        },
+        {
+            "name": "tt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tt.svg"
+        },
+        {
+            "name": "tv.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tv.svg"
+        },
+        {
+            "name": "tw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tw.svg"
+        },
+        {
+            "name": "tz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tz.svg"
+        },
+        {
+            "name": "ua.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ua.svg"
+        },
+        {
+            "name": "ug.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ug.svg"
+        },
+        {
+            "name": "um.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/um.svg"
+        },
+        {
+            "name": "un.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/un.svg"
+        },
+        {
+            "name": "us.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/us.svg"
+        },
+        {
+            "name": "uy.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/uy.svg"
+        },
+        {
+            "name": "uz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/uz.svg"
+        },
+        {
+            "name": "va.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/va.svg"
+        },
+        {
+            "name": "vc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/vc.svg"
+        },
+        {
+            "name": "ve.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ve.svg"
+        },
+        {
+            "name": "vg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/vg.svg"
+        },
+        {
+            "name": "vi.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/vi.svg"
+        },
+        {
+            "name": "vn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/vn.svg"
+        },
+        {
+            "name": "vu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/vu.svg"
+        },
+        {
+            "name": "wf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/wf.svg"
+        },
+        {
+            "name": "ws.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ws.svg"
+        },
+        {
+            "name": "xk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/xk.svg"
+        },
+        {
+            "name": "ye.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ye.svg"
+        },
+        {
+            "name": "yt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/yt.svg"
+        },
+        {
+            "name": "za.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/za.svg"
+        },
+        {
+            "name": "zm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/zm.svg"
+        },
+        {
+            "name": "zw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/zw.svg"
+        },
+        {
+            "name": "github.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/github.svg"
+        },
+        {
+            "name": "google.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/google.svg"
+        },
+        {
+            "name": "google_play.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/google_play.svg"
+        },
+        {
+            "name": "guard.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/guard.svg"
+        },
+        {
+            "name": "html.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/html.svg"
+        },
+        {
+            "name": "instagram.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/instagram.svg"
+        },
+        {
+            "name": "javascript.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/javascript.svg"
+        },
+        {
+            "name": "link.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/link.svg"
+        },
+        {
+            "name": "linux.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/linux.svg"
+        },
+        {
+            "name": "macos.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/macos.svg"
+        },
+        {
+            "name": "merry_go.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/merry_go.svg"
+        },
+        {
+            "name": "microsoft.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/microsoft.svg"
+        },
+        {
+            "name": "netflix.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/netflix.svg"
+        },
+        {
+            "name": "onedrive.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/onedrive.svg"
+        },
+        {
+            "name": "openwrt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/openwrt.svg"
+        },
+        {
+            "name": "reddit.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/reddit.svg"
+        },
+        {
+            "name": "speed.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/speed.svg"
+        },
+        {
+            "name": "steam.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/steam.svg"
+        },
+        {
+            "name": "telegram.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/telegram.svg"
+        },
+        {
+            "name": "tiktok.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/tiktok.svg"
+        },
+        {
+            "name": "twitter.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/twitter.svg"
+        },
+        {
+            "name": "unknown.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/unknown.svg"
+        },
+        {
+            "name": "warp.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/warp.svg"
+        },
+        {
+            "name": "whatsapp.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/whatsapp.svg"
+        },
+        {
+            "name": "xbox.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/xbox.svg"
+        },
+        {
+            "name": "youtube.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/youtube.svg"
+        },
+        {
+            "name": "ad.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ad.svg"
+        },
+        {
+            "name": "ae.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ae.svg"
+        },
+        {
+            "name": "af.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/af.svg"
+        },
+        {
+            "name": "ag.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ag.svg"
+        },
+        {
+            "name": "ai.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ai.svg"
+        },
+        {
+            "name": "al.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/al.svg"
+        },
+        {
+            "name": "am.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/am.svg"
+        },
+        {
+            "name": "ao.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ao.svg"
+        },
+        {
+            "name": "aq.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/aq.svg"
+        },
+        {
+            "name": "ar.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ar.svg"
+        },
+        {
+            "name": "as.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/as.svg"
+        },
+        {
+            "name": "at.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/at.svg"
+        },
+        {
+            "name": "au.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/au.svg"
+        },
+        {
+            "name": "aw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/aw.svg"
+        },
+        {
+            "name": "ax.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ax.svg"
+        },
+        {
+            "name": "az.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/az.svg"
+        },
+        {
+            "name": "ba.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ba.svg"
+        },
+        {
+            "name": "bb.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bb.svg"
+        },
+        {
+            "name": "bd.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bd.svg"
+        },
+        {
+            "name": "be.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/be.svg"
+        },
+        {
+            "name": "bf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bf.svg"
+        },
+        {
+            "name": "bg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bg.svg"
+        },
+        {
+            "name": "bh.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bh.svg"
+        },
+        {
+            "name": "bi.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bi.svg"
+        },
+        {
+            "name": "bj.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bj.svg"
+        },
+        {
+            "name": "bl.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bl.svg"
+        },
+        {
+            "name": "bm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bm.svg"
+        },
+        {
+            "name": "bn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bn.svg"
+        },
+        {
+            "name": "bo.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bo.svg"
+        },
+        {
+            "name": "bq.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bq.svg"
+        },
+        {
+            "name": "br.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/br.svg"
+        },
+        {
+            "name": "bs.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bs.svg"
+        },
+        {
+            "name": "bt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bt.svg"
+        },
+        {
+            "name": "bv.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bv.svg"
+        },
+        {
+            "name": "bw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bw.svg"
+        },
+        {
+            "name": "by.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/by.svg"
+        },
+        {
+            "name": "bz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/bz.svg"
+        },
+        {
+            "name": "ca.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ca.svg"
+        },
+        {
+            "name": "cc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cc.svg"
+        },
+        {
+            "name": "cd.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cd.svg"
+        },
+        {
+            "name": "cf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cf.svg"
+        },
+        {
+            "name": "cg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cg.svg"
+        },
+        {
+            "name": "ch.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ch.svg"
+        },
+        {
+            "name": "ci.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ci.svg"
+        },
+        {
+            "name": "ck.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ck.svg"
+        },
+        {
+            "name": "cl.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cl.svg"
+        },
+        {
+            "name": "cm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cm.svg"
+        },
+        {
+            "name": "cn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cn.svg"
+        },
+        {
+            "name": "co.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/co.svg"
+        },
+        {
+            "name": "cp.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cp.svg"
+        },
+        {
+            "name": "cr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cr.svg"
+        },
+        {
+            "name": "cu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cu.svg"
+        },
+        {
+            "name": "cv.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cv.svg"
+        },
+        {
+            "name": "cw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cw.svg"
+        },
+        {
+            "name": "cx.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cx.svg"
+        },
+        {
+            "name": "cy.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cy.svg"
+        },
+        {
+            "name": "cz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/cz.svg"
+        },
+        {
+            "name": "de.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/de.svg"
+        },
+        {
+            "name": "dg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/dg.svg"
+        },
+        {
+            "name": "dj.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/dj.svg"
+        },
+        {
+            "name": "dk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/dk.svg"
+        },
+        {
+            "name": "dm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/dm.svg"
+        },
+        {
+            "name": "do.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/do.svg"
+        },
+        {
+            "name": "dz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/dz.svg"
+        },
+        {
+            "name": "ec.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ec.svg"
+        },
+        {
+            "name": "ee.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ee.svg"
+        },
+        {
+            "name": "eg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/eg.svg"
+        },
+        {
+            "name": "eh.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/eh.svg"
+        },
+        {
+            "name": "er.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/er.svg"
+        },
+        {
+            "name": "es.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/es.svg"
+        },
+        {
+            "name": "et.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/et.svg"
+        },
+        {
+            "name": "eu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/eu.svg"
+        },
+        {
+            "name": "fi.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/fi.svg"
+        },
+        {
+            "name": "fj.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/fj.svg"
+        },
+        {
+            "name": "fk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/fk.svg"
+        },
+        {
+            "name": "fm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/fm.svg"
+        },
+        {
+            "name": "fo.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/fo.svg"
+        },
+        {
+            "name": "fr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/fr.svg"
+        },
+        {
+            "name": "ga.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ga.svg"
+        },
+        {
+            "name": "gb.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gb.svg"
+        },
+        {
+            "name": "gd.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gd.svg"
+        },
+        {
+            "name": "ge.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ge.svg"
+        },
+        {
+            "name": "gf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gf.svg"
+        },
+        {
+            "name": "gg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gg.svg"
+        },
+        {
+            "name": "gh.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gh.svg"
+        },
+        {
+            "name": "gi.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gi.svg"
+        },
+        {
+            "name": "gl.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gl.svg"
+        },
+        {
+            "name": "gm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gm.svg"
+        },
+        {
+            "name": "gn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gn.svg"
+        },
+        {
+            "name": "gp.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gp.svg"
+        },
+        {
+            "name": "gq.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gq.svg"
+        },
+        {
+            "name": "gr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gr.svg"
+        },
+        {
+            "name": "gs.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gs.svg"
+        },
+        {
+            "name": "gt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gt.svg"
+        },
+        {
+            "name": "gu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gu.svg"
+        },
+        {
+            "name": "gw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gw.svg"
+        },
+        {
+            "name": "gy.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/gy.svg"
+        },
+        {
+            "name": "hk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/hk.svg"
+        },
+        {
+            "name": "hm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/hm.svg"
+        },
+        {
+            "name": "hn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/hn.svg"
+        },
+        {
+            "name": "hr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/hr.svg"
+        },
+        {
+            "name": "ht.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ht.svg"
+        },
+        {
+            "name": "hu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/hu.svg"
+        },
+        {
+            "name": "ic.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ic.svg"
+        },
+        {
+            "name": "id.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/id.svg"
+        },
+        {
+            "name": "ie.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ie.svg"
+        },
+        {
+            "name": "il.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/il.svg"
+        },
+        {
+            "name": "im.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/im.svg"
+        },
+        {
+            "name": "in.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/in.svg"
+        },
+        {
+            "name": "io.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/io.svg"
+        },
+        {
+            "name": "iq.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/iq.svg"
+        },
+        {
+            "name": "ir.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ir.svg"
+        },
+        {
+            "name": "is.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/is.svg"
+        },
+        {
+            "name": "it.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/it.svg"
+        },
+        {
+            "name": "je.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/je.svg"
+        },
+        {
+            "name": "jm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/jm.svg"
+        },
+        {
+            "name": "jo.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/jo.svg"
+        },
+        {
+            "name": "jp.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/jp.svg"
+        },
+        {
+            "name": "ke.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ke.svg"
+        },
+        {
+            "name": "kg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/kg.svg"
+        },
+        {
+            "name": "kh.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/kh.svg"
+        },
+        {
+            "name": "ki.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ki.svg"
+        },
+        {
+            "name": "km.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/km.svg"
+        },
+        {
+            "name": "kn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/kn.svg"
+        },
+        {
+            "name": "kp.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/kp.svg"
+        },
+        {
+            "name": "kr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/kr.svg"
+        },
+        {
+            "name": "kw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/kw.svg"
+        },
+        {
+            "name": "ky.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ky.svg"
+        },
+        {
+            "name": "kz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/kz.svg"
+        },
+        {
+            "name": "la.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/la.svg"
+        },
+        {
+            "name": "lb.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/lb.svg"
+        },
+        {
+            "name": "lc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/lc.svg"
+        },
+        {
+            "name": "li.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/li.svg"
+        },
+        {
+            "name": "lk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/lk.svg"
+        },
+        {
+            "name": "lr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/lr.svg"
+        },
+        {
+            "name": "ls.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ls.svg"
+        },
+        {
+            "name": "lt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/lt.svg"
+        },
+        {
+            "name": "lu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/lu.svg"
+        },
+        {
+            "name": "lv.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/lv.svg"
+        },
+        {
+            "name": "ly.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ly.svg"
+        },
+        {
+            "name": "ma.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ma.svg"
+        },
+        {
+            "name": "mc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mc.svg"
+        },
+        {
+            "name": "md.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/md.svg"
+        },
+        {
+            "name": "me.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/me.svg"
+        },
+        {
+            "name": "mf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mf.svg"
+        },
+        {
+            "name": "mg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mg.svg"
+        },
+        {
+            "name": "mh.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mh.svg"
+        },
+        {
+            "name": "mk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mk.svg"
+        },
+        {
+            "name": "ml.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ml.svg"
+        },
+        {
+            "name": "mm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mm.svg"
+        },
+        {
+            "name": "mn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mn.svg"
+        },
+        {
+            "name": "mo.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mo.svg"
+        },
+        {
+            "name": "mp.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mp.svg"
+        },
+        {
+            "name": "mq.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mq.svg"
+        },
+        {
+            "name": "mr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mr.svg"
+        },
+        {
+            "name": "ms.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ms.svg"
+        },
+        {
+            "name": "mt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mt.svg"
+        },
+        {
+            "name": "mu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mu.svg"
+        },
+        {
+            "name": "mv.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mv.svg"
+        },
+        {
+            "name": "mw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mw.svg"
+        },
+        {
+            "name": "mx.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mx.svg"
+        },
+        {
+            "name": "my.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/my.svg"
+        },
+        {
+            "name": "mz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/mz.svg"
+        },
+        {
+            "name": "na.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/na.svg"
+        },
+        {
+            "name": "nc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/nc.svg"
+        },
+        {
+            "name": "ne.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ne.svg"
+        },
+        {
+            "name": "nf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/nf.svg"
+        },
+        {
+            "name": "ng.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ng.svg"
+        },
+        {
+            "name": "ni.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ni.svg"
+        },
+        {
+            "name": "nl.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/nl.svg"
+        },
+        {
+            "name": "no.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/no.svg"
+        },
+        {
+            "name": "np.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/np.svg"
+        },
+        {
+            "name": "nr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/nr.svg"
+        },
+        {
+            "name": "nu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/nu.svg"
+        },
+        {
+            "name": "nz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/nz.svg"
+        },
+        {
+            "name": "om.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/om.svg"
+        },
+        {
+            "name": "pa.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pa.svg"
+        },
+        {
+            "name": "pc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pc.svg"
+        },
+        {
+            "name": "pe.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pe.svg"
+        },
+        {
+            "name": "pf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pf.svg"
+        },
+        {
+            "name": "pg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pg.svg"
+        },
+        {
+            "name": "ph.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ph.svg"
+        },
+        {
+            "name": "pk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pk.svg"
+        },
+        {
+            "name": "pl.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pl.svg"
+        },
+        {
+            "name": "pm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pm.svg"
+        },
+        {
+            "name": "pn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pn.svg"
+        },
+        {
+            "name": "pr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pr.svg"
+        },
+        {
+            "name": "ps.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ps.svg"
+        },
+        {
+            "name": "pt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pt.svg"
+        },
+        {
+            "name": "pw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/pw.svg"
+        },
+        {
+            "name": "py.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/py.svg"
+        },
+        {
+            "name": "qa.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/qa.svg"
+        },
+        {
+            "name": "re.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/re.svg"
+        },
+        {
+            "name": "ro.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ro.svg"
+        },
+        {
+            "name": "rs.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/rs.svg"
+        },
+        {
+            "name": "ru.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ru.svg"
+        },
+        {
+            "name": "rw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/rw.svg"
+        },
+        {
+            "name": "sa.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sa.svg"
+        },
+        {
+            "name": "sb.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sb.svg"
+        },
+        {
+            "name": "sc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sc.svg"
+        },
+        {
+            "name": "sd.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sd.svg"
+        },
+        {
+            "name": "se.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/se.svg"
+        },
+        {
+            "name": "sg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sg.svg"
+        },
+        {
+            "name": "sh.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sh.svg"
+        },
+        {
+            "name": "si.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/si.svg"
+        },
+        {
+            "name": "sj.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sj.svg"
+        },
+        {
+            "name": "sk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sk.svg"
+        },
+        {
+            "name": "sl.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sl.svg"
+        },
+        {
+            "name": "sm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sm.svg"
+        },
+        {
+            "name": "sn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sn.svg"
+        },
+        {
+            "name": "so.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/so.svg"
+        },
+        {
+            "name": "sr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sr.svg"
+        },
+        {
+            "name": "ss.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ss.svg"
+        },
+        {
+            "name": "st.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/st.svg"
+        },
+        {
+            "name": "sv.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sv.svg"
+        },
+        {
+            "name": "sx.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sx.svg"
+        },
+        {
+            "name": "sy.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sy.svg"
+        },
+        {
+            "name": "sz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/sz.svg"
+        },
+        {
+            "name": "tc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tc.svg"
+        },
+        {
+            "name": "td.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/td.svg"
+        },
+        {
+            "name": "tf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tf.svg"
+        },
+        {
+            "name": "tg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tg.svg"
+        },
+        {
+            "name": "th.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/th.svg"
+        },
+        {
+            "name": "tj.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tj.svg"
+        },
+        {
+            "name": "tk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tk.svg"
+        },
+        {
+            "name": "tl.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tl.svg"
+        },
+        {
+            "name": "tm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tm.svg"
+        },
+        {
+            "name": "tn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tn.svg"
+        },
+        {
+            "name": "to.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/to.svg"
+        },
+        {
+            "name": "tr.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tr.svg"
+        },
+        {
+            "name": "tt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tt.svg"
+        },
+        {
+            "name": "tv.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tv.svg"
+        },
+        {
+            "name": "tw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tw.svg"
+        },
+        {
+            "name": "tz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/tz.svg"
+        },
+        {
+            "name": "ua.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ua.svg"
+        },
+        {
+            "name": "ug.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ug.svg"
+        },
+        {
+            "name": "um.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/um.svg"
+        },
+        {
+            "name": "un.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/un.svg"
+        },
+        {
+            "name": "us.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/us.svg"
+        },
+        {
+            "name": "uy.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/uy.svg"
+        },
+        {
+            "name": "uz.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/uz.svg"
+        },
+        {
+            "name": "va.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/va.svg"
+        },
+        {
+            "name": "vc.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/vc.svg"
+        },
+        {
+            "name": "ve.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ve.svg"
+        },
+        {
+            "name": "vg.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/vg.svg"
+        },
+        {
+            "name": "vi.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/vi.svg"
+        },
+        {
+            "name": "vn.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/vn.svg"
+        },
+        {
+            "name": "vu.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/vu.svg"
+        },
+        {
+            "name": "wf.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/wf.svg"
+        },
+        {
+            "name": "ws.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ws.svg"
+        },
+        {
+            "name": "xk.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/xk.svg"
+        },
+        {
+            "name": "ye.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/ye.svg"
+        },
+        {
+            "name": "yt.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/yt.svg"
+        },
+        {
+            "name": "za.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/za.svg"
+        },
+        {
+            "name": "zm.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/zm.svg"
+        },
+        {
+            "name": "zw.svg",
+            "url": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/flags/zw.svg"
+        }
+    ]
+}
