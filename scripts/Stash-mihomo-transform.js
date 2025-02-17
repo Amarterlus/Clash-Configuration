@@ -219,7 +219,7 @@ const ruleProviders = {
     ...ruleProviderCommon,
     format: "text",
     behavior: "classical",
-    url: " https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Rules/Netflix.list",
+    url: "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Rules/Netflix.list",
   },
 };
 
