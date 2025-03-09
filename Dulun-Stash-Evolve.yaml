@@ -15,7 +15,7 @@ dns:
     - +.local
 proxy-providers:
   Subscribe:
-    url: http://sub.store/download/BPAP?target=Stash # 用你的订阅链接替换
+    url: http://sub.store/download/BPAP?target=Stash&includeUnsupportedProxy=true # 用你的订阅链接替换
     interval: 86400
     benchmark-url: http://cp.cloudflare.com
     benchmark-timeout: 5

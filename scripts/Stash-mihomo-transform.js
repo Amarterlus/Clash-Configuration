@@ -1,6 +1,8 @@
 // 规则
 const rules = [
   // 自定义规则
+  "DOMAIN-SUFFIX,deno.com,全局直连",
+  "DOMAIN-SUFFIX,deno.dev,全局直连",
   "DOMAIN-SUFFIX,torrentkitty.tv,节点选择",
   "DOMAIN,v2rayse.com,节点选择", // V2rayse节点工具
   "DOMAIN-SUFFIX,dmm.co.jp,🇯🇵 DMM专用",
@@ -10,14 +12,18 @@ const rules = [
   "DOMAIN-SUFFIX,prestige-av.com,🇯🇵 DMM专用",
   "DOMAIN-SUFFIX,koyeb.com,节点选择",
   "DOMAIN-SUFFIX,koyeb.app,节点选择",
-  "DOMAIN-SUFFIX,kessel-api.parsec.app,节点选择",
-  "DOMAIN-SUFFIX,kessel-ws.parsec.app,节点选择",
-  "DOMAIN-SUFFIX,builds.parsec.app,节点选择",
+  // "DOMAIN-SUFFIX,kessel-api.parsec.app,节点选择",
+  // "DOMAIN-SUFFIX,kessel-ws.parsec.app,节点选择",
+  // "DOMAIN-SUFFIX,builds.parsec.app,节点选择",
+  // rule34的cdn没被墙只是速度慢
+  //"DOMAIN-SUFFIX,boomio-cdn.com,节点选择",
   "DOMAIN-SUFFIX,groq.com,🇺🇸 Stream",
-  "DOMAIN-SUFFIX,arc.net,节点选择",
-  "DOMAIN-SUFFIX,launchdarkly.com,节点选择",
+  // Arc浏览器 需要开启TUN模式
+  // "DOMAIN-SUFFIX,arc.net,节点选择",
+  // "DOMAIN-SUFFIX,launchdarkly.com,节点选择",
   //sukkaw 规则集
   "RULE-SET,microsoft_cdn_non_ip,全局直连",
+  // "RULE-SET,microsoft_cdn_non_ip,微软服务",
   "RULE-SET,microsoft_non_ip,微软服务",
   "RULE-SET,apple_cdn,全局直连",
   "RULE-SET,apple_services,苹果服务",
@@ -50,8 +56,8 @@ const rules = [
 
 // 国内DNS服务器
 const domesticNameservers = [
-  "https://dns.alidns.com/dns-query", // 阿里云公共DNS
   "https://doh.pub/dns-query", // 腾讯DNSPod
+  "https://dns.alidns.com/dns-query", // 阿里云公共DNS
   "https://doh.360.cn/dns-query", // 360安全DNS
 ];
 // 国外DNS服务器
@@ -68,6 +74,7 @@ const dnsConfig = {
   enable: true,
   listen: "0.0.0.0:1053",
   ipv6: true,
+  "respect-rules": true,
   "use-system-hosts": false,
   "cache-algorithm": "arc",
   "enhanced-mode": "fake-ip",
@@ -85,12 +92,12 @@ const dnsConfig = {
     // 微信快速登录检测失败
     "localhost.work.weixin.qq.com",
   ],
-  "default-nameserver": ["223.6.6.6", "119.29.29.29", "8.8.8.8", "1.1.1.1"],
-  nameserver: [...domesticNameservers, ...foreignNameservers],
+  "default-nameserver": ["119.29.29.29", "223.5.5.5", "8.8.8.8", "1.1.1.1"],
+  "nameserver": [...domesticNameservers, ...foreignNameservers],
   "proxy-server-nameserver": [...domesticNameservers, ...foreignNameservers],
   "nameserver-policy": {
     "geosite:private,cn,geolocation-cn": domesticNameservers,
-    "geosite:google,youtube,telegram,gfw,geolocation-!cn": foreignNameservers,
+    "geosite:google,youtube,telegram,gfw,geolocation-!cn": [...foreignNameservers, ...domesticNameservers],
   },
 };
 // 规则集通用配置
@@ -123,61 +130,51 @@ const ruleProviders = {
     ...ruleProviderCommon,
     behavior: "domain",
     url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt",
-    path: "./ruleset/loyalsoldier/google.yaml",
   },
   proxy: {
     ...ruleProviderCommon,
     behavior: "domain",
     url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt",
-    path: "./ruleset/loyalsoldier/proxy.yaml",
   },
   direct: {
     ...ruleProviderCommon,
     behavior: "domain",
     url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt",
-    path: "./ruleset/loyalsoldier/direct.yaml",
   },
   private: {
     ...ruleProviderCommon,
     behavior: "domain",
     url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt",
-    path: "./ruleset/loyalsoldier/private.yaml",
   },
   gfw: {
     ...ruleProviderCommon,
     behavior: "domain",
     url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt",
-    path: "./ruleset/loyalsoldier/gfw.yaml",
   },
   "tld-not-cn": {
     ...ruleProviderCommon,
     behavior: "domain",
     url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt",
-    path: "./ruleset/loyalsoldier/tld-not-cn.yaml",
   },
   telegramcidr: {
     ...ruleProviderCommon,
     behavior: "ipcidr",
     url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt",
-    path: "./ruleset/loyalsoldier/telegramcidr.yaml",
   },
   cncidr: {
     ...ruleProviderCommon,
     behavior: "ipcidr",
     url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt",
-    path: "./ruleset/loyalsoldier/cncidr.yaml",
   },
   lancidr: {
     ...ruleProviderCommon,
     behavior: "ipcidr",
     url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt",
-    path: "./ruleset/loyalsoldier/lancidr.yaml",
   },
   applications: {
     ...ruleProviderCommon,
     behavior: "classical",
     url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt",
-    path: "./ruleset/loyalsoldier/applications.yaml",
   },
   microsoft_cdn_non_ip: {
     ...ruleProviderCommon,
