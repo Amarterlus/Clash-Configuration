@@ -1,0 +1,75 @@
+# 通用设置
+mode: rule
+log-level: warning
+# DNS模块
+dns:
+  default-nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  fake-ip-filter:
+    - '*'
+    - +.lan
+    - +.local
+proxy-providers:
+  Subscribe:
+    url: http://sub.store/download/BPAP?target=Stash&includeUnsupportedProxy=true # 用你的订阅链接替换
+    interval: 86400
+    benchmark-url: http://cp.cloudflare.com
+    benchmark-timeout: 5
+    # 功能分组
+proxy-groups:
+  - name: Proxy
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spark.png
+    include-all: true
+    proxies:
+      - DIRECT
+      - Auto
+  - name: Final
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png
+    proxies:
+      - DIRECT
+      - Proxy
+  - name: Auto
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Qure.png
+    include-all: true
+    lazy: true
+    type: url-test
+# 规则引用
+rules:
+  - DOMAIN-SUFFIX,missav.ai,Proxy
+  - DOMAIN-SUFFIX,koyeb.app,Proxy
+  - DOMAIN-SUFFIX,koyeb.com,Proxy
+  - RULE-SET,Telegram,Proxy
+  - RULE-SET,Google,Proxy
+  - RULE-SET,AI,Proxy
+  - RULE-SET,ProxyGFW,Proxy
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,Final
+rule-providers:
+  AI:
+    behavior: classical
+    format: text
+    interval: 432000
+    url: https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Rules/AI.list
+  Telegram:
+    behavior: classical
+    format: text
+    interval: 432000
+    url: https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Rules/Telegram.list  
+  ProxyGFW:
+    behavior: domain
+    format: text
+    interval: 432000
+    url: https://fastly.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/proxy.txt
+  Google:
+    behavior: domain
+    format: text
+    interval: 432000
+    url: https://fastly.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/google.txt
+subscribe-url: https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=8519f490f7271da7bef5fb8a7ef1c35a
